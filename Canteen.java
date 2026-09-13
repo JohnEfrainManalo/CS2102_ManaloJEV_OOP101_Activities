@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Lab1{
+class Canteen{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
